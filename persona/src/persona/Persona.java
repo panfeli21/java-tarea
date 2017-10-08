@@ -21,12 +21,14 @@ public class Persona {
     private String telefono;
 
     public static void main(String[] args) {
-            public persona(int cedula) {
-        this.cedula = cedula;
+            
+			
+	public persona(int cedula) {
+    this.cedula = cedula;
        
         
     }
-    public int getCedula() {
+    public int getCedula() { /*  
         return cedula;
     }
     public String getNombre() {
